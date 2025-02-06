@@ -99,7 +99,7 @@ For detailed guidelines, please refer to our [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) © [Your Name or Organization].
+This project is licensed under the [MIT License](LICENSE) © Taha Daneshmand.
 
 ---
 
